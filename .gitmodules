@@ -4,4 +4,4 @@
 
 [submodule "creditcard-restapi"]
 	path = creditcard-restapi
-	url = https://github.com/xolisamatika/creditcard-restapi.git
+	url = git@github.com:xolisamatika/creditcard-restapi.git
