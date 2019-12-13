@@ -1,7 +1,0 @@
-[submodule "vue-app"]
-	path = vue-app
-	url = https://github.com/xolisamatika/vue-app.git
-
-[submodule "creditcard-restapi"]
-	path = creditcard-restapi
-	url = https://github.com/xolisamatika/creditcard-restapi.git
