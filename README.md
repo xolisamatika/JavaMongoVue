@@ -1,5 +1,9 @@
 # Assessment
 
+## Pull submodules
+```
+git submodule init && git submodule update
+```
 ## Build the backend app jar
 ```
 cd credicard-restapi &&  ./gradlew build && cd -
